@@ -4,10 +4,14 @@ Yocto development repo manifests.
 
 # Notes
 
-## Poky
+## poky
 
+```
 repo init -u https://github.com/elcfd/repo-manifests.git
+```
 
-## Meta-security
+## meta-security
 
+```
 repo init -u https://github.com/elcfd/repo-manifests.git -m meta-security.xml
+```
