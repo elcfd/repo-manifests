@@ -21,3 +21,9 @@ repo init -u https://github.com/elcfd/repo-manifests.git -m meta-security.xml
 ```
 repo init -u https://github.com/elcfd/repo-manifests.git -m beaglebone-black.xml
 ```
+
+## beaglebone-black-mender
+
+```
+repo init -u https://github.com/elcfd/repo-manifests.git -m beaglebone-black-mender.xml
+```
